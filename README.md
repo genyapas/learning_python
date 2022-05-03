@@ -1,2 +1,2 @@
 # learning_python
-my firsrt steps in python programming
+my first steps in python programming
